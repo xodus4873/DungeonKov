@@ -1,0 +1,21 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Build/
+*.csproj
+*.sln
+
+# Local verification and generated files
+*.log
+/BuildLog.txt
+/Backups/
+/Assets/Scenes/Backups/
+/Assets/Scenes/Backups.meta
+.vs/
+.idea/
+*.suo
+*.user
+.DS_Store
+Thumbs.db
